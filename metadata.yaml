@@ -1,11 +1,16 @@
 _repo: The-Petrol-Engine-A-Text-book-dealing-with-the-Principles-of-Design-and-Construction-with-a-S__55403
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55403-h/images/cover.jpg
 creator:
   author:
     agent_name: Kean, Francis John
     gutenberg_agent_id: '48316'
     url: http://www.gutenberg.org/2009/agents/48316
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55403#The-Petrol-Engine-A-Text-book-dealing-with-the-Principles-of-Design-and-Construction-with-a-S_
 gutenberg_issued: '2017-08-21'
 gutenberg_type: Text
 identifiers:
